@@ -1,0 +1,6 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+torch==2.7.0
+ultralytics==8.3.130
+matplotlib==3.10.3
+opencv-python-headless==4.11.0.86
